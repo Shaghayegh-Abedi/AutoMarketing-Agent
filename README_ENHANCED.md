@@ -86,9 +86,7 @@ The enhanced features work automatically in the background:
 ## 📚 Documentation
 
 - See `QUICK_SETUP.md` for quick start guide
-- See `2_DAY_INTERVIEW_PREP.md` for interview preparation
-- See `INTERVIEW_SUMMARY.md` for talking points
-- See `LEARNING_ROADMAP.md` for long-term learning path
+
 
 ## 🔧 Backward Compatibility
 
@@ -97,13 +95,4 @@ The enhanced features work automatically in the background:
 - Original JSON-based memory still functions
 - No breaking changes to the API
 
-## 🎓 Interview Preparation
-
-This enhanced version is designed to demonstrate:
-- Understanding of vector databases and semantic search
-- Knowledge of fine-tuning concepts
-- Awareness of distributed systems and communication protocols
-- Production-ready thinking
-
-See the interview preparation guides for more details.
 
