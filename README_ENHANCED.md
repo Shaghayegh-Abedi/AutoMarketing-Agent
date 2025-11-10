@@ -83,10 +83,6 @@ The enhanced features work automatically in the background:
 3. **Communication**: Shared context only → Structured messaging protocol
 4. **Learning**: No learning → Semantic search of past campaigns
 
-## 📚 Documentation
-
-- See `QUICK_SETUP.md` for quick start guide
-
 
 ## 🔧 Backward Compatibility
 
